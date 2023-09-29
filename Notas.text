@@ -1,0 +1,5 @@
+❌ ERRORES
+    
+    ✔ Al instalar tailwind (https://www.nativewind.dev/quick-starts/expo#1-create-the-project) hay que intalar un version anterior npm i -D tailwindcss@3.3.2
+    
+    ✔ Error al usar Carusel -> instalar deprecated-react-native-prop-types - Eliminar en node_modules/react-native/index.js los " Deprecated Prop Types " console.Error
